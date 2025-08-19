@@ -26,3 +26,4 @@ Design and code are completely written by BootstrapMade's design and development
  - Licensed under [MIT]
  - Distributed by [ThemeWagon](https://themewagon.com)
 
+
